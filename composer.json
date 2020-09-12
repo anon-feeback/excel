@@ -1,0 +1,12 @@
+{
+    "name": "ing-cesar/excelphp",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.14"
+    },
+    "authors": [
+        {
+            "name": "Cesar Augusto Tapia",
+            "email": "cesart050892@users.noreply.github.com"
+        }
+    ]
+}
